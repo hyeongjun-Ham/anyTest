@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="intelTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/intelTest_jar</output-path>
+    <root id="archive" name="intelTest.jar" />
+  </artifact>
+</component>
