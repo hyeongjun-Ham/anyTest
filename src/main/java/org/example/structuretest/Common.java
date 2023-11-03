@@ -19,7 +19,4 @@ public class Common implements Inter{
         inter.save();
     }
 
-    public void commonMethod() {
-        System.out.println("commonMethod");
-    }
 }
